@@ -1,0 +1,11 @@
+@import url()
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: #3333;
+	font-family: 'Popins', sans-serif;
+	align-items: center;
+}
+.cover
